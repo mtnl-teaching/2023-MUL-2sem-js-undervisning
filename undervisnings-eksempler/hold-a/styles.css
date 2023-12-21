@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.yellow {
+  background-color: #fcdc00;
+}
+
+.sun {
+  position: absolute;
+  top: 50%;
+  left: 50px;
+  font-size: 50px;
+}

@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "editor.fontWeight": "normal",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": false,
+  "editor.tabSize": 1,
+  "workbench.activityBar.visible": true,
+  "liveServer.settings.port": 5501
+}
